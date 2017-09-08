@@ -9,4 +9,5 @@ Disallow:
 This is just for pull demo
 This is just for pull demo 2
 
+This is just for push demo
 # some line
